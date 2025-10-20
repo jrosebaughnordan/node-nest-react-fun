@@ -7,6 +7,8 @@ export function Home() {
       <p>This is the home page!</p>
 
       <Link to="/todos">Go to Todos →</Link>
+      <div />
+      <Link to="/sliders">Go to Slider Page →</Link>
     </div>
   );
 }
